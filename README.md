@@ -112,7 +112,7 @@ Follow these steps to get WireTapper up and running:
    python app-env.py
    ```
 
-   The application will be available at `http://localhost:8080`.
+   The application will be available at `http://localhost:8080/map-w`.
 
 ## 📷 Screenshots
 
